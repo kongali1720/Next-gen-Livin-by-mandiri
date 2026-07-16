@@ -1,0 +1,30 @@
+# OS Metadata
+.DS_Store
+Thumbs.db
+
+# IDEs & Editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Build & Dependency Outputs
+build/
+bin/
+out/
+target/
+.gradle/
+node_modules/
+
+# Local Environment / Secrets
+.env
+.env.local
+*.pem
+*.jks
+*.key
+
+# Docker
+.docker/
