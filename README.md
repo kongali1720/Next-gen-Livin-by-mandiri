@@ -6,11 +6,11 @@
 
 ---
 
-<img src="https://github.com/kongali1720/Next-gen-Livin-by-mandiri/blob/main/preloginr19.png" width="120" />
+<img src="https://github.com/kongali1720/Next-gen-Livin-by-mandiri/blob/main/preloginr19.png" width="320" />
 
 ---
 
-# Next-Gen Livin' by Mandiri
+## Next-Gen Livin' by Mandiri
 
 ### *Gagasan & Transformasi Digital Bank Mandiri Masa Depan*
 
