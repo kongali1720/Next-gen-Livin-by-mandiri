@@ -90,12 +90,17 @@ Membangun konsep **Next Generation Livin'** yang mampu menjadi:
 
 # 📚 Daftar Isi
 
-| Bab | Pembahasan |
-|------|------------|
-| 📖 | [Pendahuluan & Tren Perbankan Global](docs/01-pendahuluan.md) |
-| 📊 | [Analisis UX & Pain Points Livin'](docs/02-analisis-pasar.md) |
-| 🚀 | [Blueprint Fitur Masa Depan](docs/03-usulan-fitur.md) |
-| 🏗️ | [Arsitektur Sistem & Keamanan](docs/04-arsitektur-tren.md) |
+Repositori ini disusun secara bertahap mulai dari analisis bisnis, perancangan fitur, hingga arsitektur teknis dan keamanan aplikasi.
+
+| Bab | Dokumen | Deskripsi |
+|------|----------|-----------|
+| 📖 Bab 1 | [Pendahuluan & Tren Perbankan Global](docs/01-pendahuluan.md) | Latar belakang, visi transformasi digital, dan tren industri perbankan masa depan. |
+| 📊 Bab 2 | [Analisis Kritis & UX Pain Points Livin'](docs/02-analisis-pasar.md) | Analisis pengalaman pengguna, kompetitor, dan peluang inovasi produk. |
+| 💡 Bab 3 | [Usulan Fitur Baru (The Future Blueprint)](docs/03-usulan-fitur.md) | Blueprint fitur inovatif seperti AI Assistant, Secure Token Vault, CBDC Gateway, dan Classic Clean Mode. |
+| 🏗️ Bab 4 | [Arsitektur Sistem, API & Kepatuhan Regulasi](docs/04-arsitektur-tren.md) | Desain arsitektur, Open Banking API, integrasi backend, serta standar keamanan dan regulasi. |
+| 🔐 Bab 5 | [Enterprise Security Architecture](docs/05-arsitektur-keamanan.md) | Zero Trust Architecture, Identity & Access Management, enkripsi, keamanan jaringan, dan strategi pertahanan berlapis. |
+| 🛡️ Bab 6 | [Application Shielding & Proteksi Aplikasi](docs/06-proteksi-aplikasi.md) | Strategi perlindungan aplikasi mobile terhadap reverse engineering, tampering, serta peningkatan keamanan sisi klien. |
+| ⚡ Bab 7 | [Pemantauan Performa & Optimasi Latensi](docs/07-pemantauan-performa.md) | Observability, monitoring, pengukuran performa transaksi, optimasi sistem, dan target SLA/SLO. |
 
 ---
 
