@@ -6,11 +6,11 @@
 
 ---
 
-<img src="https://github.com/kongali1720/Next-gen-Livin-by-mandiri/blob/main/favicon-01.jpg" width="120" />
+<img src="https://github.com/kongali1720/Next-gen-Livin-by-mandiri/blob/main/preloginr19.png" width="120" />
 
 ---
 
-# 🚀 Next-Gen Livin' by Mandiri
+# Next-Gen Livin' by Mandiri
 
 ### *Gagasan & Transformasi Digital Bank Mandiri Masa Depan*
 
@@ -169,6 +169,9 @@ Made with ❤️ by **Kongali1720**
 
 ---
 
+<div align="center">
+
+
 ## 🌐 Project Ecosystem
 
 | Project | Description | Status |
@@ -180,11 +183,11 @@ Made with ❤️ by **Kongali1720**
 
 ---
 
+<div align="center">
+
 ## ☕ Support the Project
 
 If this project has helped your research, learning, or security operations, consider supporting its continued development.
-
-<div align="center">
 
 <a href="https://www.paypal.com/paypalme/bungtempong99">
 <img src="https://img.shields.io/badge/☕-Support_Development-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000">
