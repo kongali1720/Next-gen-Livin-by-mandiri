@@ -1,0 +1,38 @@
+services:
+  # Backend API (Kotlin Ktor/Spring)
+  livin-future-api:
+    image: openjdk:17-slim
+    container_name: livin-future-api
+    ports:
+      - "8080:8080"
+    environment:
+      - DB_HOST=livin-secure-db
+      - DB_PORT=5432
+      - DB_NAME=livin_vault
+      - DB_USER=mandiri_dev
+      - DB_PASSWORD=securepassword1720
+    depends_on:
+      - livin-secure-db
+
+  # Database Relasional untuk Menyimpan Data Transaksi Log (Non-Sensitif)
+  livin-secure-db:
+    image: postgres:15-alpine
+    container_name: livin-secure-db
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_DB=livin_vault
+      - POSTGRES_USER=mandiri_dev
+      - POSTGRES_PASSWORD=securepassword1720
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+  # Redis untuk Rate Limiting & Session Caching API
+  livin-cache:
+    image: redis:7-alpine
+    container_name: livin-cache
+    ports:
+      - "6379:6379"
+
+volumes:
+  pgdata:
