@@ -166,3 +166,28 @@ sequenceDiagram
 Made with ❤️ by **Kongali1720**
 
 </div>
+
+---
+
+## 🌐 Project Ecosystem
+
+| Project | Description | Status |
+|----------|-------------|:------:|
+| **KongaliCoin ID** | Web3 ecosystem and blockchain platform | 🟢 Active |
+| **KongaliCoin** | ERC-20 smart contract ecosystem | 🟢 Active |
+| **YOUNEXT Cloud** | Cloud infrastructure and security platform | 🟢 Active |
+| **ZLCLOTH Industries** | Enterprise digital solutions | 🟢 Active |
+
+---
+
+## ☕ Support the Project
+
+If this project has helped your research, learning, or security operations, consider supporting its continued development.
+
+<div align="center">
+
+<a href="https://www.paypal.com/paypalme/bungtempong99">
+<img src="https://img.shields.io/badge/☕-Support_Development-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000">
+</a>
+
+</div>
