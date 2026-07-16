@@ -2,7 +2,16 @@
 
 <img src="https://github.com/kongali1720/KongWallet-Payment-Gateway-API/blob/main/kop_surat.jpg" width="100%" />
 
-# Next-Gen Livin' by Mandiri
+<br>
+
+---
+
+<img src="https://github.com/kongali1720/Next-gen-Livin-by-mandiri/blob/main/favicon-01.jpg" width="120" />
+
+---
+
+# 🚀 Next-Gen Livin' by Mandiri
+
 ### *Gagasan & Transformasi Digital Bank Mandiri Masa Depan*
 
 [![Status](https://img.shields.io/badge/Status-Concept-blue?style=for-the-badge)]()
@@ -10,7 +19,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)]()
 [![Made With](https://img.shields.io/badge/Made%20With-Markdown-black?style=for-the-badge)]()
 
----
+<br>
 
 **Kajian Independen • Digital Banking • Artificial Intelligence • Web3 • Future Finance**
 
@@ -49,33 +58,27 @@ Membangun konsep **Next Generation Livin'** yang mampu menjadi:
 
 # 💡 Pilar Inovasi
 
-## 🤖 1. Hyper-Personalized AI Assistant *(Livin' Genius)*
+## 🤖 Hyper-Personalized AI Assistant *(Livin' Genius)*
 
-AI yang tidak hanya menjawab pertanyaan pengguna, tetapi mampu:
-
-- Mempelajari pola transaksi
+- Mempelajari pola transaksi pengguna
 - Memberikan rekomendasi penghematan
 - Membuat prediksi cashflow
 - Memberikan insight investasi
-- Financial advisor berbasis AI lokal
+- AI Financial Advisor berbasis lokal
 
 ---
 
-## 🌐 2. Web3 & Digital Asset Integration
-
-Eksplorasi konsep:
+## 🌐 Web3 & Digital Asset Integration
 
 - Digital Rupiah (CBDC Ready)
 - Secure Token Vault
 - Multi Asset Portfolio
 - Blockchain Verification
-- Future Digital Banking Infrastructure
+- Future Banking Infrastructure
 
 ---
 
-## 🧩 3. Modular & Gamified UI/UX *(Livin' Playground)*
-
-Konsep antarmuka yang dapat disesuaikan pengguna:
+## 🧩 Modular & Gamified UI/UX *(Livin' Playground)*
 
 - Minimal Mode
 - Business Dashboard
@@ -97,8 +100,6 @@ Konsep antarmuka yang dapat disesuaikan pengguna:
 ---
 
 # 🛠️ Pendekatan Teknologi
-
-Repositori ini membahas implementasi konseptual menggunakan:
 
 - Open Banking API
 - OAuth2 & JWT Authentication
@@ -143,26 +144,24 @@ sequenceDiagram
 
 # 📌 Tujuan Penelitian
 
-Repositori ini dibuat sebagai:
-
-- 📖 Kajian akademik
-- 💡 Kontribusi ide
+- 📖 Kajian Akademik
+- 💡 Kontribusi Ide
 - 🚀 Future Digital Banking Research
-- 🇮🇩 Dukungan terhadap inovasi teknologi finansial Indonesia
+- 🇮🇩 Mendukung inovasi teknologi finansial Indonesia
 
 ---
 
 # ⚠️ Disclaimer
 
-> **Karya tulis ini merupakan analisis, opini, dan gagasan independen penulis.**
+> Karya tulis ini merupakan analisis, opini, dan gagasan independen penulis.
 >
-> Seluruh isi repositori bersifat **non-komersial**, tidak mewakili Bank Mandiri maupun afiliasi resmi lainnya, dan disusun sebagai bentuk kontribusi ide, penelitian, serta eksplorasi inovasi teknologi finansial di Indonesia.
+> Seluruh isi repositori bersifat **non-komersial**, tidak mewakili Bank Mandiri maupun afiliasi resminya. Dokumen ini disusun sebagai bentuk kontribusi ide, penelitian, dan eksplorasi inovasi teknologi finansial di Indonesia.
 
 ---
 
 <div align="center">
 
-### ⭐ Jika proyek ini menarik, jangan lupa berikan Star.
+### ⭐ Jika proyek ini menarik, jangan lupa berikan Star!
 
 Made with ❤️ by **Kongali1720**
 
